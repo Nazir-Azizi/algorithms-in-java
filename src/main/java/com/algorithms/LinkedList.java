@@ -1,4 +1,4 @@
-package com.algorithm;
+package com.algorithms;
 
 /**
  * Hello world!

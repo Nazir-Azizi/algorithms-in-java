@@ -1,4 +1,4 @@
-package com.algorithm;
+package com.algorithms;
 
 import static org.junit.Assert.assertTrue;
 
